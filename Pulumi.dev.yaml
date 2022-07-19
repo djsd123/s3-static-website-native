@@ -1,0 +1,9 @@
+encryptionsalt: v1:sTRAWeuXrZI=:v1:gqv7Nz33dOOURGrR:S1dy5Y5JuqdQGI3KkALA+fFygTrQ6w==
+config:
+  aws:profile: personal
+  aws:region: eu-west-1
+  aws-native:region: eu-west-1
+  s3-static-website:certificateArn:
+    secure: v1:SxPwK7LArzt/9dbm:+drlE0rflkHYN8HSzyv4QTfeU3ub0a6Rfun4C/nHKNU3OiXs+6taFz8nxkLkbJKMf57MWSnFZu9u4R+ni5hGDKm7SDjMj5NmPLZjiXN9oUQKYAl0o7qyqqSNEb0MirnP8G1G
+  s3-static-website:domain: www.sub.mcallison.co.uk
+  s3-static-website:pathToWebsiteContents: ./www
