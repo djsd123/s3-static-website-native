@@ -1,0 +1,3 @@
+name: s3-static-website-native
+runtime: nodejs
+description: Static S3 Website with Native provider
